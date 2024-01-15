@@ -12,7 +12,7 @@ $ ./install_miniconda.sh
 ```
 
 
-## Creating a virtual environment using conda
+## Creating a virtual environment using Conda
 
 ```shell
 (base) user@host:~$ conda create --name cv
@@ -37,7 +37,7 @@ Solving environment: done
 #     $ conda deactivate
 ```
 
-## installing packages
+## Installing packages
 
 ```shell
 $ cd scripts
